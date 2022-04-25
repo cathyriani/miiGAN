@@ -1,17 +1,17 @@
 # miiGAN
 
-##About MiiGAN:
+## About MiiGAN:
 MiiGAN is a neural network trained on a dataset of 200 images of Nintendo Miis to generate any number of randomized Mii characters at a 512x512 resolution. 
 MiiGAN was created with the express purpose to generate randomized images of Miis and test the pros, cons, and limitations of network training on a small dataset in a small period of time.
 
 (Notebook Adapted From Jeff Heaton's Tutorials.)
 
-##Operating Instructions:
+## Operating Instructions:
 Please open the file in Google Colab or just on Github to see the cells that I used to train this GAN. 
 You can also run this notebook using your own images. Change the values and file paths to suit your needs.
 Additional instructions and notes are also included within the actual notebook.
 
-##Training Snapshots:
+## Training Snapshots:
 Training start:
 ![Frame 1](https://user-images.githubusercontent.com/43814446/165119909-c81bfddc-c6dc-4910-a6a4-b9fcf57e74b8.png)
 

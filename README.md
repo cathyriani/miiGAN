@@ -11,6 +11,9 @@ Please open the file in Google Colab or just here on Github to see the cells tha
 You can also run this notebook using your own images. Change the values and file paths to suit your needs.
 Additional instructions and notes are also included within the actual notebook.
 
+## Training Timelapse:
+![MiiGAN-Timelapse](https://user-images.githubusercontent.com/43814446/165142960-8c543d0d-85f1-43f0-92b0-6cefc0db6f9b.gif)
+
 ## Training Snapshots:
 Training start:
 ![Frame 1](https://user-images.githubusercontent.com/43814446/165119909-c81bfddc-c6dc-4910-a6a4-b9fcf57e74b8.png)
